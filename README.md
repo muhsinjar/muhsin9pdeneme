@@ -1,2 +1,2 @@
 # muhsin9pdeneme
-deneme repos
+deneme repository
